@@ -2,10 +2,7 @@
 
 This Xiaotao Shen.
 
-<!--
-**jaspershen/jaspershen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am now a postdoctoral research fellow at Stanford University. I am broadly interested in Metabolomics processing development, Multi-omics data integration, Biostatistics, Systems Biology, and Bioinformatics, and their application in healthcare.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
