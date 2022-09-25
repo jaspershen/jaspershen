@@ -12,7 +12,7 @@ I am now a postdoctoral research fellow at Stanford University. I am broadly int
 
 1. tidymass https://www.tidymass.org/
 2. deepPsedoMSI https://www.deeppseudomsi.org/
-3. tidymicrobiome https://github.com/tidymicrobiome
+3. tidymicrobiome http://www.tidymicrobiome.org/
 
 <div align="center">
 
