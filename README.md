@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-This Xiaotao Shen.
+This is Xiaotao Shen.
 
-I am now a postdoctoral research fellow at Stanford University. I am broadly interested in Metabolomics processing development, Multi-omics data integration, Biostatistics, Systems Biology, and Bioinformatics, and their application in healthcare.
+I am a Postdoctoral Research Fellow in Prof. Michael Snyder’s lab at Stanford University School of Medicine. My overarching research interests are bioinformatics algorithms development for multi-omics data, and their application to precision medicine. Specifically, I am interested in bioinformatics algorithm development, including 1) Comprehensive analysis workflow and deep learning for LC-MS data, 2) Metabolic network analysis, 3) Wearable and multi-omics data integration, and 4) microbiome and metabolome data integration. I also employed the developed bioinformatics algorithms as a unique systems biology approach to study the potential biomarkers and mechanisms of 1) pregnancy and related diseases, 2) aging and related diseases, and 3) cancer. 
 
 - 🔭 I’m currently working at Stanford School of Medicine as a postdoc.
-- 💬 Ask me about metabolomics, bioinformatics, computational biology and systems biology.
-- 📫 How to reach out to me: Email (shenxt1990@outlook.com), [WeChat (shenxt1990)](https://www.shenxt.info/files/wechat_QR.jpg) or [Twitter](https://twitter.com/xiaotaoshen1990).
+- 💬 Ask me about metabolomics, bioinformatics, computational biology, and systems biology.
+- 📫 How to reach out to me: Email (shenxt1990@outlook.com), [WeChat (shenxt1990)](https://jaspershen.github.io/image/wechat_QR.jpg) or [Twitter](https://twitter.com/xiaotaoshen1990).
 
-## Project
+## 💻 Project
 
 1. tidymass project [https://www.tidymass.org](https://www.tidymass.org/)
 2. deepPsedoMSI project [https://www.deeppseudomsi.org](https://www.deeppseudomsi.org/)
