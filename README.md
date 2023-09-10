@@ -18,10 +18,10 @@ I am a Postdoctoral Research Fellow in Prof. Michael Snyder’s lab at Stanford 
 
 ## 💻 Project
 
-1. tidymass project [https://www.tidymass.org](https://www.tidymass.org/)
-2. deepPsedoMSI project [https://www.deeppseudomsi.org](https://www.deeppseudomsi.org/)
-3. tidymicrobiome project [http://www.tidymicrobiome.org](http://www.tidymicrobiome.org/)
-4. tidywearable project [http://www.tidymicrobiome.org](https://tidywearable.github.io/)
+1. tidymass project [www.tidymass.org](https://www.tidymass.org/)
+2. deepPsedoMSI project [www.deeppseudomsi.org](https://www.deeppseudomsi.org/)
+3. tidymicrobiome project [www.tidymicrobiome.org](http://www.tidymicrobiome.org/)
+4. tidywearable project [www.tidymicrobiome.org](https://tidywearable.github.io/)
 
 ## 📚 Statistics
 
