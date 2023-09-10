@@ -11,10 +11,10 @@ I am a Postdoctoral Research Fellow in Prof. Michael Snyder’s lab at Stanford 
 
 ## 📥 Contact me
 
-- Email (shenxt1990@outlook.com)
-- Personal website [https://jaspershen.github.io](https://jaspershen.github.io/)
-- [WeChat (shenxt1990)](https://jaspershen.github.io/image/wechat_QR.jpg)
-- [Twitter](https://twitter.com/xiaotaoshen1990)
+- 📩 Email [shenxt1990@outlook.com](shenxt1990@outlook.com)
+- 🏠 Personal website [jaspershen.github.io](https://jaspershen.github.io/)
+- 💬 WeChat [shenxt1990](https://jaspershen.github.io/image/wechat_QR.jpg)
+- 🐦 Twitter [xiaotaoshen1990](https://twitter.com/xiaotaoshen1990)
 
 ## 💻 Project
 
