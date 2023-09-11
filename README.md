@@ -31,3 +31,6 @@ I am a Postdoctoral Research Fellow in Prof. Michael Snyder’s lab at Stanford 
 
 </div>
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-YourName-blue)](https://scholar.google.com/citations?user=3TK9yz8AAAAJ)
+
+
